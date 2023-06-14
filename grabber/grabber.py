@@ -1,4 +1,4 @@
-#Использован туториал Льва Матюшкина: https://proglib.io/p/pishem-prostoy-grabber-dlya-telegram-chatov-na-python-2019-11-06
+#Lev Matyushkin's tutorial is used: https://proglib.io/p/pishem-prostoy-grabber-dlya-telegram-chatov-na-python-2019-11-06
 
 import configparser
 import json
